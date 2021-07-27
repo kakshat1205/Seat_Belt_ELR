@@ -8,14 +8,11 @@ Actuator is a servo motor which initially is unlocked and if rotated to 90 degre
 
 
 ## Software Used
-Proteus design Suite 8.10
-Arduino Ide
+Proteus design Suite 8.10, Arduino Ide
 
 ## Components Required
 - Microcontroller Unit – Arduino Uno
-- Sensors – Hall Sensor based Encoder
-	IMU Sensor (Acclerometer)
-	Encoder for seat angle detection
+- Sensors – Hall Sensor based Encoder, IMU Sensor (Acclerometer), Encoder for seat angle detection
 - Actuator – Servo Motor
 
 ## Working:
@@ -29,7 +26,7 @@ Actuating – Once sensing and processing is done, if microcontroller unit sense
 
 
 
-Basic Structure of Hardware
+## Basic Structure of Hardware
 
 ![image](https://user-images.githubusercontent.com/49076977/127124378-24d0ecc4-7b35-4c85-a74f-d3482661c709.png)
 
@@ -42,7 +39,7 @@ https://youtu.be/2r3IiTISvtk
 - Arduino code:
 https://github.com/kakshat1205/Seat_Belt_ELR/blob/main/code%20files/final/final.ino
 
-For more info and recent modifications go to my GitHub:
+- For more info and recent modifications go to my GitHub:
 https://github.com/kakshat1205/Seat_Belt_ELR
 
 
